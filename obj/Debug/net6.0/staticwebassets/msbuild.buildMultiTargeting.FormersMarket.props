@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FormersMarket.props" />
+</Project>
